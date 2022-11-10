@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[------Starting Edge in MacOs Sierra--------]]>
+    </line>
+    <line>
+      <![CDATA[---------- (Mac) Step 1 started -------------]]>
+    </line>
+    <line>
+      <![CDATA[---------- (Mac) Step 1 ended -------------]]>
+    </line>
+    <line>
+      <![CDATA[---------- (Mac) Step 2 started -------------]]>
+    </line>
+    <line>
+      <![CDATA[---------- (Mac) Step 2 ended -------------]]>
+    </line>
+    <line>
+      <![CDATA[---------- (Mac) Step 3 started -------------]]>
+    </line>
+    <line>
+      <![CDATA[---------- (Mac) Step 3 ended -------------]]>
+    </line>
+    <line>
+      <![CDATA[---------- (Mac) Step 4 started -------------]]>
+    </line>
+    <line>
+      <![CDATA[Url of 'SEE ALL INTEGRATION' Opening in new tab (MacOS Edge)]]>
+    </line>
+    <line>
+      <![CDATA[---------- (Mac) Step 4 ended -------------]]>
+    </line>
+    <line>
+      <![CDATA[---------- (Mac) Step 5 started -------------]]>
+    </line>
+    <line>
+      <![CDATA[---------- (Mac) Step 5 ended -------------]]>
+    </line>
+    <line>
+      <![CDATA[---------- (Mac) Step 6 started -------------]]>
+    </line>
+    <line>
+      <![CDATA[https://www.lambdatest.com/integrations]]>
+    </line>
+    <line>
+      <![CDATA[---------- (Mac) Step 6 ended -------------]]>
+    </line>
+    <line>
+      <![CDATA[---------- (Mac) Step 7 started -------------]]>
+    </line>
+    <line>
+      <![CDATA[---------- (Mac) Step 7 ended -------------]]>
+    </line>
+    <line>
+      <![CDATA[---------- (Mac) Step 8 started -------------]]>
+    </line>
+    <line>
+      <![CDATA[---------- (Mac) Step 8 ended -------------]]>
+    </line>
+    <line>
+      <![CDATA[---------- (Mac) Step 9 started -------------]]>
+    </line>
+    <line>
+      <![CDATA[Title in TestSenario Document wrong: 'TestingWhiz Integration | LambdaTest']]>
+    </line>
+    <line>
+      <![CDATA[Actual Title: Step By Step Guide to Integrate Lambdatest With Katalon | LambdaTest]]>
+    </line>
+    <line>
+      <![CDATA[---------- (Mac) Step 9 ended -------------]]>
+    </line>
+    <line>
+      <![CDATA[---------- (Mac) Step 10 started -------------]]>
+    </line>
+    <line>
+      <![CDATA[---------- (Mac) Step 10 ended -------------]]>
+    </line>
+    <line>
+      <![CDATA[---------- (Mac) Step 11 started -------------]]>
+    </line>
+    <line>
+      <![CDATA[Current Window count: 1]]>
+    </line>
+    <line>
+      <![CDATA[---------- (Mac) Step 11 ended -------------]]>
+    </line>
+    <line>
+      <![CDATA[---------- (Mac) Step 12 started -------------]]>
+    </line>
+    <line>
+      <![CDATA[---------- (Mac) Step 12 ended -------------]]>
+    </line>
+    <line>
+      <![CDATA[---------- (Mac) Step 13 started -------------]]>
+    </line>
+    <line>
+      <![CDATA[Community URL verification result: true]]>
+    </line>
+    <line>
+      <![CDATA[---------- (Mac) Step 13 ended -------------]]>
+    </line>
+    <line>
+      <![CDATA[---------- (Mac) Step 14 -------------]]>
+    </line>
+    <line>
+      <![CDATA[---------- Tear Down -------------]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-11-10T21:09:32 IST" name="Default suite" finished-at="2022-11-10T21:10:18 IST" duration-ms="46376">
+    <groups>
+    </groups>
+    <test started-at="2022-11-10T21:09:32 IST" name="Default test" finished-at="2022-11-10T21:10:18 IST" duration-ms="46376">
+      <class name="testScenarios.TestNGMac">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testScenarios.TestNGMac@59662a0b]" started-at="2022-11-10T21:09:32 IST" name="setUp" finished-at="2022-11-10T21:09:41 IST" duration-ms="9695" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[------Starting Edge in MacOs Sierra--------]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="lambdaTest()[pri:0, instance:testScenarios.TestNGMac@59662a0b]" started-at="2022-11-10T21:09:41 IST" name="lambdaTest" finished-at="2022-11-10T21:10:12 IST" duration-ms="31023" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[---------- (Mac) Step 1 started -------------]]>
+            </line>
+            <line>
+              <![CDATA[---------- (Mac) Step 1 ended -------------]]>
+            </line>
+            <line>
+              <![CDATA[---------- (Mac) Step 2 started -------------]]>
+            </line>
+            <line>
+              <![CDATA[---------- (Mac) Step 2 ended -------------]]>
+            </line>
+            <line>
+              <![CDATA[---------- (Mac) Step 3 started -------------]]>
+            </line>
+            <line>
+              <![CDATA[---------- (Mac) Step 3 ended -------------]]>
+            </line>
+            <line>
+              <![CDATA[---------- (Mac) Step 4 started -------------]]>
+            </line>
+            <line>
+              <![CDATA[Url of 'SEE ALL INTEGRATION' Opening in new tab (MacOS Edge)]]>
+            </line>
+            <line>
+              <![CDATA[---------- (Mac) Step 4 ended -------------]]>
+            </line>
+            <line>
+              <![CDATA[---------- (Mac) Step 5 started -------------]]>
+            </line>
+            <line>
+              <![CDATA[---------- (Mac) Step 5 ended -------------]]>
+            </line>
+            <line>
+              <![CDATA[---------- (Mac) Step 6 started -------------]]>
+            </line>
+            <line>
+              <![CDATA[https://www.lambdatest.com/integrations]]>
+            </line>
+            <line>
+              <![CDATA[---------- (Mac) Step 6 ended -------------]]>
+            </line>
+            <line>
+              <![CDATA[---------- (Mac) Step 7 started -------------]]>
+            </line>
+            <line>
+              <![CDATA[---------- (Mac) Step 7 ended -------------]]>
+            </line>
+            <line>
+              <![CDATA[---------- (Mac) Step 8 started -------------]]>
+            </line>
+            <line>
+              <![CDATA[---------- (Mac) Step 8 ended -------------]]>
+            </line>
+            <line>
+              <![CDATA[---------- (Mac) Step 9 started -------------]]>
+            </line>
+            <line>
+              <![CDATA[Title in TestSenario Document wrong: 'TestingWhiz Integration | LambdaTest']]>
+            </line>
+            <line>
+              <![CDATA[Actual Title: Step By Step Guide to Integrate Lambdatest With Katalon | LambdaTest]]>
+            </line>
+            <line>
+              <![CDATA[---------- (Mac) Step 9 ended -------------]]>
+            </line>
+            <line>
+              <![CDATA[---------- (Mac) Step 10 started -------------]]>
+            </line>
+            <line>
+              <![CDATA[---------- (Mac) Step 10 ended -------------]]>
+            </line>
+            <line>
+              <![CDATA[---------- (Mac) Step 11 started -------------]]>
+            </line>
+            <line>
+              <![CDATA[Current Window count: 1]]>
+            </line>
+            <line>
+              <![CDATA[---------- (Mac) Step 11 ended -------------]]>
+            </line>
+            <line>
+              <![CDATA[---------- (Mac) Step 12 started -------------]]>
+            </line>
+            <line>
+              <![CDATA[---------- (Mac) Step 12 ended -------------]]>
+            </line>
+            <line>
+              <![CDATA[---------- (Mac) Step 13 started -------------]]>
+            </line>
+            <line>
+              <![CDATA[Community URL verification result: true]]>
+            </line>
+            <line>
+              <![CDATA[---------- (Mac) Step 13 ended -------------]]>
+            </line>
+            <line>
+              <![CDATA[---------- (Mac) Step 14 -------------]]>
+            </line>
+            <line>
+              <![CDATA[---------- Tear Down -------------]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- lambdaTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testScenarios.TestNGMac@59662a0b]" started-at="2022-11-10T21:10:12 IST" name="tearDown" finished-at="2022-11-10T21:10:18 IST" duration-ms="5615" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testScenarios.TestNGMac -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
